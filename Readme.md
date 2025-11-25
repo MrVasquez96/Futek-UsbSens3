@@ -18,8 +18,9 @@ Tool for reading, recording and graphing data from **Futek** sensors over a seri
       * **Windows:** Double-click the `futek-serial-usb.exe` file.
       * **Linux:** Open a terminal, navigate to the extracted folder, and execute the binary with `./futek-serial-usb`.
 
-> ⚠️ **Notice:** Depending on your operating system's security settings and how the serial port is managed, you **may need to run the application with administrative privileges** (`Run as administrator` on Windows, or using `sudo` on Linux).
-
+> ⚠️ **Notice:** \
+          - Depending on your operating system's security settings and how the serial port is managed, you **may need to run the application with administrative privileges** (`Run as administrator` on Windows, or using `sudo` on Linux). \
+          - Changing samplerate is only to do possible via windows.
 -----
 
 ## Tested Devices
@@ -27,3 +28,5 @@ Tool for reading, recording and graphing data from **Futek** sensors over a seri
 This utility has been specifically developed and tested against the **USB220** (Universal Digital Display) with **LLB400** (Load Button Sensor)
 
 While it may work with other Futek devices that use a similar serial protocol, **compatibility is not guaranteed**.
+
+
