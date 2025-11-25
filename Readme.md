@@ -12,7 +12,7 @@ Tool for reading, recording and graphing data from **Futek** sensors over a seri
 
 ### Usage
 
-1.  **Download:** Navigate to the **[Releases](https://www.google.com/search?q=https://github.com/MrVasquez96/Futek-UsbSens3/releases)** page and download the latest binary package for your operating system (`.zip` for Windows, `.tar.gz` for Linux).
+1.  **Download:** Navigate to the **[Releases](https://github.com/MrVasquez96/Futek-UsbSens3/releases)** page and download the latest binary package for your operating system (`.zip` for Windows, `.tar.gz` for Linux).
 2.  **Extract:** Unzip or un-tar the downloaded file to a location on your computer.
 3.  **Run:**
       * **Windows:** Double-click the `futek-serial-usb.exe` file.
