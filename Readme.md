@@ -2,7 +2,12 @@
 Tool for reading, recording and graphing data from **Futek** sensors over a serial-to-USB (Futek-USB220) connection. 
 
 -----
-
+## Features
+* Record sensor readings to csv
+* Adjust samplerate (5 - 4800 SPS) where reading per second (Bandwidth) = Samplerate/4 as stated in the USB220 documentation.
+* Export graph from recordings as an image
+* Export recordings to CSV or record to CSV directly
+----
 ##  Getting Started
 
 ### Prerequisites
