@@ -15,7 +15,7 @@ Tool for reading, recording and graphing data from **Futek** sensors over a seri
 
   * **Requirement:** **Python 3.10** (or a compatible version).
   * **Notes:** This script is developed and tested against Python 3.10. While other Python 3 versions might work, this version is recommended for full compatibility.
-
+* Can be installed directly via the windows store.
 -----
 
 #### **2. Python Packages**
