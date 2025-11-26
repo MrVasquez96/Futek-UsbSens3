@@ -9,7 +9,25 @@ Tool for reading, recording and graphing data from **Futek** sensors over a seri
 
 1.  A compatible **Futek sensor** (tested with UDB220 and LLB400).
 2.  A **serial-to-USB adapter** (I.e Futek usb220)
+3. Python 3.10
+   
+#### **1. Python**
 
+  * **Requirement:** **Python 3.10** (or a compatible version).
+  * **Notes:** This script is developed and tested against Python 3.10. While other Python 3 versions might work, this version is recommended for full compatibility.
+
+-----
+
+#### **2. Python Packages**
+
+The following third-party Python package must be installed:
+
+  * **Package:** **pythonnet**
+      * **Purpose:** This is the core package used to interact with the FUTEK_USB_DLL.dll dynamic library directly from Python. 
+      * **Installation:**
+        ```bash
+        pip install pythonnet
+        ```
 ### Usage
 
 1.  **Download:** Navigate to the **[Releases](https://github.com/MrVasquez96/Futek-UsbSens3/releases)** page and download the latest binary package for your operating system (`.zip` for Windows, `.tar.gz` for Linux).
