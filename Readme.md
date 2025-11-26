@@ -43,7 +43,7 @@ The following third-party Python package must be installed:
 
 > ⚠️ **Notice:** \
           - Depending on your operating system's security settings and how the serial port is managed, you **may need to run the application with administrative privileges** (`Run as administrator` on Windows, or using `sudo` on Linux). \
-          - Changing samplerate is only to do possible via windows.
+          - Changing samplerate is only possible to do via windows.
 -----
 
 ## Tested Devices
