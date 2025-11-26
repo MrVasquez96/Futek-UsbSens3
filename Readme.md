@@ -43,7 +43,7 @@ The following third-party Python package must be installed:
 
 ## Tested Devices
 
-This utility has been specifically developed and tested against the **USB220** (Universal Digital Display) with **LLB400** (Load Button Sensor)
+This utility has been specifically developed and tested against the **USB220** with **LLB400** (Load Button Sensor)
 
 While it may work with other Futek devices that use a similar serial protocol, **compatibility is not guaranteed**.
 
