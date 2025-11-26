@@ -9,7 +9,7 @@ Tool for reading, recording and graphing data from **Futek** sensors over a seri
 
 1.  A compatible **Futek sensor** (tested with UDB220 and LLB400).
 2.  A **serial-to-USB adapter** (I.e Futek usb220)
-3. Python 3.10
+3. Python 3.10. (Needed in order to set the samplerate)
    
 #### **1. Python**
 
